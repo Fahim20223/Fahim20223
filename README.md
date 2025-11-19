@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img align="right" alt="coding" width="100%" src="https://i.ibb.co.com/9kSMj98F/Untitled-design.png">
-</p>
+
+  <img align="center" alt="coding" width="100%"  src="https://i.ibb.co.com/9kSMj98F/Untitled-design.png">
+
 
 
 

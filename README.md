@@ -1,5 +1,7 @@
 
-  <img src="https://i.ibb.co.com/YB09dJ9s/fahim-portfolio.png" width="100%" />
+ <picture>
+  <img src="https://i.ibb.co.com/YB09dJ9s/fahim-portfolio.png" width="100%">
+</picture>
 
 
 ### Hi there 👋, I'm Fahim Shahrier 

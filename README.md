@@ -1,4 +1,6 @@
-![Web Developer From Bangladesh ](https://i.ibb.co.com/YB09dJ9s/fahim-portfolio.png)
+<p align="center">
+  <img src="https://i.ibb.co.com/YB09dJ9s/fahim-portfolio.png" width="100%" />
+</p>
 
 ### Hi there 👋, I'm Fahim Shahrier 
 #### Web Developer From Bangladesh 

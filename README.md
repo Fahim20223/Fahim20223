@@ -1,11 +1,6 @@
-
-<picture> <img src="https://i.ibb.co.com/9kSMj98F/Untitled-design.png" width="100%"> </picture>
-
-
-
 ### Hi there 👋, I'm Fahim Shahrier 
 #### Web Developer From Bangladesh 
-
+![Web Developer From Bangladesh ](https://i.ibb.co.com/YB09dJ9s/fahim-portfolio.png)
 
 I'm a passionate frontend developer specializing in building modern, responsive web applications with a focus on performance and user experience. Currently exploring the powerful capabilities of Next.js while leveraging my strong foundation in React.js to create dynamic, scalable solutions.
 

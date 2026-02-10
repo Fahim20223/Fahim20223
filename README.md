@@ -19,6 +19,11 @@ I also contribute to open-source projects and collaborate with fellow developers
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Fahim20223&color=brightgreen)
+
+
+---
+
 ### 🚀 Current Activities  
 - 🔭 Working with **React JS**  
 - 🌱 Learning **Next JS**  

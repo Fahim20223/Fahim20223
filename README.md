@@ -33,13 +33,31 @@ I also contribute to open-source projects and collaborate with fellow developers
 ---
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.fahim.747416) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahimshahrier/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahimshahrier2023@gmail.com) 
+<h3 align="left">Connect with me:</h3>
+<table>
+  <tr>
+    <!-- <td><a href="https://twitter.com/rakib8680" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td> -->
+    <td><a href="https://www.linkedin.com/in/fahimshahrier/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
+    <!-- <td><a href="https://instagram.com/fahim_x_x_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td> -->
+    <!-- <td><a href="https://www.youtube.com/c/rakib%20gaming" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a></td> -->
+    <!-- <td><a href="https://www.leetcode.com/rakib8680" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a></td> -->
+    <td><a href="https://discord.gg/mdfahimshahrier" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a></td>
+    <td>
+  <a href="mailto:fahimshahrier2023@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" />
+  </a>
+</td>
+    
+  </tr>
+</table>
+</br>
 
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,express,nodejs,mongodb,postgres,fastapi,tailwind,netlify,firebase,vercel,cloudflare,github,git,figma,postman,powershell,npm,notion,stackoverflow,vite,vscode)](https://skillicons.dev) 
+</br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Fahim20223&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Fahim20223&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fahim20223&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -47,7 +65,7 @@ I also contribute to open-source projects and collaborate with fellow developers
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fahim20223&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Snake Game Repo View -->
@@ -57,7 +75,7 @@ I also contribute to open-source projects and collaborate with fellow developers
 </div>
 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Fahim20223&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---

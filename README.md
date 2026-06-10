@@ -53,19 +53,29 @@ I also contribute to open-source projects and collaborate with fellow developers
 </br>
 
 
-## 💻 Tech Stack:
+<h2>Tech Stack:</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,express,nodejs,mongodb,postgres,fastapi,tailwind,netlify,firebase,vercel,cloudflare,github,git,figma,postman,powershell,npm,notion,stackoverflow,vite,vscode)](https://skillicons.dev) 
 </br>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Fahim20223&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Fahim20223&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fahim20223&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2>GitHub Stats:</h2>
+<div class="stats" align="left">
 
-## 🏆 GitHub Trophies
+![Fahim Shahrier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahim20223&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim20223&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=fahim20223&count_private=true&theme=algolia&border_radius=20)
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->  
+</div>
+<!-- ![](https://github-readme-stats.shion.dev/api?username=Fahim20223&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Fahim20223&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fahim20223&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+<h2>GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=Fahim20223&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ Random Dev Quote
+<h2>Random Dev Quote</h2>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Snake Game Repo View -->

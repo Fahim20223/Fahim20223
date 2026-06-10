@@ -33,7 +33,7 @@ I also contribute to open-source projects and collaborate with fellow developers
 ---
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <table>
   <tr>
     <!-- <td><a href="https://twitter.com/rakib8680" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td> -->
